@@ -1,4 +1,4 @@
-<p><strong>Books: Every Developer Should </strong></p>
+<p><strong>Essential Books That Every Programmer Should Read </strong></p>
 <p><strong>________________________________________________________________________________________________________________________________</strong></p>
 
 <ul>
