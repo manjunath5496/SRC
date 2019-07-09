@@ -40,6 +40,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Scala-Programming-Books/blob/master/README.md" style="text-decoration:none;">Scala Programming Books</a></b></li>  
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/README.md" style="text-decoration:none;">Ruby Programming Books</a></b></li>   
  
                                 
  </ul>
