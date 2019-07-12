@@ -1,5 +1,5 @@
-<p><strong>Essential Books That Every Programmer Should Read </strong></p>
-<p><strong>________________________________________________________________________________________________________________________________</strong></p>
+<p><strong>Essential Books That Every Programmer Should Read: </strong></p>
+<hr>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Programming-Books/blob/master/README.md" style="text-decoration:none;">C Programming Books </a></b></li>
