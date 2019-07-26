@@ -48,4 +48,6 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/README.md" style="text-decoration:none;">R Programming + Data Science Books</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Mining-Books/blob/master/README.md" style="text-decoration:none;">Data Mining Books</a></b></li> 
+
  </ul>
