@@ -50,4 +50,5 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Mining-Books/blob/master/README.md" style="text-decoration:none;">Data Mining Books</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Statistics-Books/blob/master/README.md" style="text-decoration:none;"> Statistics Books For Data Science</a></b></li> 
  </ul>
