@@ -53,4 +53,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Statistics-Books/blob/master/README.md" style="text-decoration:none;"> Statistics Books For Data Science</a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Automation-Testing-Books/blob/master/README.md" style="text-decoration:none;"> Automation Testing Books</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/README.md" style="text-decoration:none;"> AWS Books</a></b></li>
+
  </ul>
