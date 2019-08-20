@@ -61,7 +61,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/README.md" style="text-decoration:none;"> Mathematical Logic Books</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Books/blob/master/README.md" style="text-decoration:none;"> SQL Books</a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Go-Programming-Books/blob/master/README.md" style="text-decoration:none;"> Go Programming Books</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Books/blob/master/README.md" style="text-decoration:none;"> Data Science Books</a></b></li>
 
  </ul>
