@@ -88,6 +88,10 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src7.rar" style="text-decoration:none;">Gradient Background Animation </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src8.rar" style="text-decoration:none;">3D Items Quick View</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src9.rar" style="text-decoration:none;">JavaScript Alarm Clock </a></b></li>
+
 
  </ul>
  
