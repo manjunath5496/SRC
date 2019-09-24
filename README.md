@@ -98,7 +98,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src12.rar" style="text-decoration:none;"> Amazing Neon Text Effect With Pure CSS3</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src13.rar" style="text-decoration:none;"> Simple Image Editor</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src13.rar" style="text-decoration:none;"> Amazing Pure CSS3 Flip Effect Design</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src14.rar" style="text-decoration:none;"> Photo Editor</a></b></li>
 
