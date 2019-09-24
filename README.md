@@ -79,6 +79,10 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src3.rar" style="text-decoration:none;"> Code Box Editor</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src4.rar" style="text-decoration:none;"> Simple Image Editor</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src5.rar" style="text-decoration:none;"> Photo Editor</a></b></li>
+
 
  </ul>
  
