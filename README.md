@@ -107,7 +107,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src16.rar" style="text-decoration:none;">Amazing Social Icons Vibrating Effect Using Pure CSS3 </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src17.rar" style="text-decoration:none;">3D Items Quick View</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src17.rar" style="text-decoration:none;">Alternate Fixed And Scroll Backgrounds</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src18.rar" style="text-decoration:none;">JavaScript Alarm Clock </a></b></li>
 
