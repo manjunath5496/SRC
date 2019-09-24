@@ -92,7 +92,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src9.rar" style="text-decoration:none;">JavaScript Alarm Clock </a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src10.rar" style="text-decoration:none;"> HTML Editor</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src10.rar" style="text-decoration:none;"> jQuery Fly to cart effect</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src11.rar" style="text-decoration:none;"> Text Editor</a></b></li>
 
