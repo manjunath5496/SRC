@@ -75,7 +75,7 @@
  <ul>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src1.rar" style="text-decoration:none;"> HTML Editor</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src2.rar" style="text-decoration:none;"> Text Editor</a></b></li>
 
 
  </ul>
