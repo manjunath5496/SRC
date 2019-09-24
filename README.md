@@ -84,6 +84,9 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src5.rar" style="text-decoration:none;"> Photo Editor</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src6.rar" style="text-decoration:none;"> Slide Toogle Animation</a></b></li>
+
+
  </ul>
  
  
