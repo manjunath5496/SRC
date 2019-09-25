@@ -148,7 +148,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src35.rar" style="text-decoration:none;">Enable and disable text box based on clicking of checkbox </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src36.rar" style="text-decoration:none;">Address Book </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src36.rar" style="text-decoration:none;">Address Book With Bootstrap and jQuery </a></b></li>
 
 
 
