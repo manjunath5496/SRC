@@ -180,13 +180,13 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src50.rar" style="text-decoration:none;"> Animated Sidenav Example Full Width</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src15.rar" style="text-decoration:none;">Analog Clock CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src51.rar" style="text-decoration:none;">Animated Sidenav Example</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src16.rar" style="text-decoration:none;">Amazing Social Icons Vibrating Effect Using Pure CSS3 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src52.rar" style="text-decoration:none;">Animation with Text (JavaScript) </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src17.rar" style="text-decoration:none;">Alternate Fixed And Scroll Backgrounds</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src53.rar" style="text-decoration:none;">Article Title Hover Effect</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src18.rar" style="text-decoration:none;">Book Cover Animation </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src54.rar" style="text-decoration:none;">Background Big Text Crawl</a></b></li>
 
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src19.rar" style="text-decoration:none;"> AngularJS Client-side Image Optimization</a></b></li>
