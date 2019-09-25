@@ -112,6 +112,43 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src18.rar" style="text-decoration:none;">Book Cover Animation </a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src19.rar" style="text-decoration:none;"> AngularJS Client-side Image Optimization</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src20.rar" style="text-decoration:none;"> 3D Download Button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src21.rar" style="text-decoration:none;"> Animated CSS3 Hover Caption with Image Zoom Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src22.rar" style="text-decoration:none;"> Amazing Glitter Star Effect Using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src5.rar" style="text-decoration:none;"> Photo Editor</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src6.rar" style="text-decoration:none;">Slide Toggle Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src7.rar" style="text-decoration:none;">Gradient Background Animation </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src8.rar" style="text-decoration:none;">3D Items Quick View</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src9.rar" style="text-decoration:none;">JavaScript Alarm Clock </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src10.rar" style="text-decoration:none;"> jQuery Fly to cart effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src11.rar" style="text-decoration:none;"> Animated Information Bar</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src12.rar" style="text-decoration:none;"> Amazing Neon Text Effect With Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src13.rar" style="text-decoration:none;"> Amazing Pure CSS3 Flip Effect Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src14.rar" style="text-decoration:none;"> Advanced JavaScript Typing Test System</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src15.rar" style="text-decoration:none;">Analog Clock CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src16.rar" style="text-decoration:none;">Amazing Social Icons Vibrating Effect Using Pure CSS3 </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src17.rar" style="text-decoration:none;">Alternate Fixed And Scroll Backgrounds</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src18.rar" style="text-decoration:none;">Book Cover Animation </a></b></li>
 
 
 
