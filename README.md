@@ -267,24 +267,24 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src90.rar" style="text-decoration:none;">CSS Stitch Effect </a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src19.rar" style="text-decoration:none;"> AngularJS Client-side Image Optimization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src91.rar" style="text-decoration:none;"> CSS Text align</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src20.rar" style="text-decoration:none;"> 3D Download Button</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src92.rar" style="text-decoration:none;"> CSS Text underline hover Effect</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src21.rar" style="text-decoration:none;"> Animated CSS3 Hover Caption with Image Zoom Effect</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src93.rar" style="text-decoration:none;"> CSS Text with Different Shadow</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src22.rar" style="text-decoration:none;"> Amazing Glitter Star Effect Using Pure CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src94.rar" style="text-decoration:none;"> CSS Title Animation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src23.rar" style="text-decoration:none;"> Amazing Photo Flip Effect Using Pure CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src95.rar" style="text-decoration:none;"> CSS Typing Effect</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src24.rar" style="text-decoration:none;">Amazing Side Page Navigation With 3D Page Flip Effect Using CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src96.rar" style="text-decoration:none;">JavaScript and CSS3 Calculator</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src25.rar" style="text-decoration:none;">Amazing Mac(OS X) Dock UI Using Pure CSS3 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src97.rar" style="text-decoration:none;">CSS3 Button </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src26.rar" style="text-decoration:none;">Background with color overlay with opacity in CSS</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src98.rar" style="text-decoration:none;">CSS3 Text Animation Effect</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src27.rar" style="text-decoration:none;">jQuery Back To Top Button </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src99.rar" style="text-decoration:none;">Dashed Underline Hyperlink on Hover</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src28.rar" style="text-decoration:none;"> Blur image hover effect using CSS</a></b></li>
 
