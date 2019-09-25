@@ -388,7 +388,250 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src147.rar" style="text-decoration:none;">JavaScript Byte Conversion Calculator</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src148.rar" style="text-decoration:none;"> JavaScript Centered PopUp Window</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src149.rar" style="text-decoration:none;"> JavaScript Color chooser</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src150.rar" style="text-decoration:none;"> JavaScript Dancing Text</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src151.rar" style="text-decoration:none;"> JavaScript Elastic Text</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src152.rar" style="text-decoration:none;"> JavaScript Fireworks on the Page</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src153.rar" style="text-decoration:none;">JavaScript Flashing Color</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src154.rar" style="text-decoration:none;">JavaScript HTML Encrypter </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src155.rar" style="text-decoration:none;">JavaScript Length converter</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src156.rar" style="text-decoration:none;">JavaScript Letter Spacing Menu </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src157.rar" style="text-decoration:none;"> JavaScript Manual Scroll</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src158.rar" style="text-decoration:none;"> JavaScript Monitor Resolution</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src159.rar" style="text-decoration:none;"> JavaScript Multiple Search Engine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src160.rar" style="text-decoration:none;"> JavaScript News Scroller</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src161.rar" style="text-decoration:none;"> JavaScript Note Reminder</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src162.rar" style="text-decoration:none;">JavaScript PopUp Window via Text Link</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src163.rar" style="text-decoration:none;">JavaScript Sales Calculator </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src164.rar" style="text-decoration:none;">JavaScript Scroll form box</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src165.rar" style="text-decoration:none;">JavaScript Scroll Window </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src166.rar" style="text-decoration:none;"> JavaScript Simple Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src167.rar" style="text-decoration:none;"> JavaScript Snow Fall</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src168.rar" style="text-decoration:none;"> JavaScript Vertical Marquee</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src169.rar" style="text-decoration:none;"> JavaScript Weight Converter</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src170.rar" style="text-decoration:none;"> JavaScript Word Counter</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src171.rar" style="text-decoration:none;">Simple javascript alertbox for link</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src172.rar" style="text-decoration:none;">Keyboard</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src173.rar" style="text-decoration:none;">Know Everything About Your Browser</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src174.rar" style="text-decoration:none;">Life Insurance Calculator Script </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src175.rar" style="text-decoration:none;"> Lighting effect using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src176.rar" style="text-decoration:none;"> Link Colors</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src177.rar" style="text-decoration:none;"> Live Date script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src178.rar" style="text-decoration:none;"> Menu Message</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src32.rar" style="text-decoration:none;"> Twitter Bootstrap Modal Login Popup</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src33.rar" style="text-decoration:none;">Bubble Shooter Game</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src34.rar" style="text-decoration:none;">Burger menu transformation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src35.rar" style="text-decoration:none;">Enable and disable text box based on clicking of checkbox </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src36.rar" style="text-decoration:none;">Address Book With Bootstrap and jQuery </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src37.rar" style="text-decoration:none;"> 3D CSS Sphere</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src38.rar" style="text-decoration:none;"> 3D in CSS3 - 3D 6 Sides Cube</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src39.rar" style="text-decoration:none;"> 3D in CSS3 - 3D Stacking Concept</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src40.rar" style="text-decoration:none;"> JavaScript Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src41.rar" style="text-decoration:none;"> A Skeletal Animation Framework in JavaScript</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src42.rar" style="text-decoration:none;">AC ROBOT</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src43.rar" style="text-decoration:none;">Accessible footnotes with CSS </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src44.rar" style="text-decoration:none;">Advanced Gallery script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src45.rar" style="text-decoration:none;">Advanced Scientific Calculator </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src46.rar" style="text-decoration:none;"> Age Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src47.rar" style="text-decoration:none;"> Analog clock (static)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src48.rar" style="text-decoration:none;"> Animated border effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src49.rar" style="text-decoration:none;"> Animated model of our solar system [no js]</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src50.rar" style="text-decoration:none;"> Animated Sidenav Example Full Width</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src51.rar" style="text-decoration:none;">Animated Sidenav Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src52.rar" style="text-decoration:none;">Animation with Text (JavaScript) </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src53.rar" style="text-decoration:none;">Article Title Hover Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src54.rar" style="text-decoration:none;">Background Big Text Crawl</a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src55.rar" style="text-decoration:none;"> Blink background on button click (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src56.rar" style="text-decoration:none;"> BMI Calculator </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src57.rar" style="text-decoration:none;"> JavaScript weight and height calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src58.rar" style="text-decoration:none;"> Breadcrumbs</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src59.rar" style="text-decoration:none;"> 3D Button</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src60.rar" style="text-decoration:none;">Bullets</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src61.rar" style="text-decoration:none;">Burger Menu </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src62.rar" style="text-decoration:none;">Business Card</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src63.rar" style="text-decoration:none;">Button with sliding information </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src64.rar" style="text-decoration:none;"> Calculate the Time Spent on Site (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src65.rar" style="text-decoration:none;"> Calorie Calculator Script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src66.rar" style="text-decoration:none;"> Change Selection Background color using CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src67.rar" style="text-decoration:none;"> Change the background color on button click</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src68.rar" style="text-decoration:none;"> Change the color of the text on button click (HTML)</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src69.rar" style="text-decoration:none;">Check file size with JavaScript</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src70.rar" style="text-decoration:none;">Clock and Date Around Mouse Cursor (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src71.rar" style="text-decoration:none;">Clock Button (JavaScript) </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src72.rar" style="text-decoration:none;">Color Changer</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src73.rar" style="text-decoration:none;"> 3D in CSS3 - Content in Both Sides</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src74.rar" style="text-decoration:none;"> Convert Text to Lowercase</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src75.rar" style="text-decoration:none;"> Convert Text to Uppercase</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src76.rar" style="text-decoration:none;"> Cool Marquee Script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src77.rar" style="text-decoration:none;"> Cross Browser marquee</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src78.rar" style="text-decoration:none;">Crystal Ball</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src79.rar" style="text-decoration:none;">CSS Text with Different Shadow </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src80.rar" style="text-decoration:none;">CSS border</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src81.rar" style="text-decoration:none;">CSS Colored Text </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src82.rar" style="text-decoration:none;"> CSS Deep 3D Text Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src83.rar" style="text-decoration:none;"> CSS drop down menu</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src84.rar" style="text-decoration:none;"> CSS fancy button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src85.rar" style="text-decoration:none;"> CSS Link URL Preview</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src86.rar" style="text-decoration:none;"> CSS Linkedin button</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src87.rar" style="text-decoration:none;">CSS Long Shadow Text</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src88.rar" style="text-decoration:none;">CSS Rotate Text </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src89.rar" style="text-decoration:none;">CSS Sphere</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src90.rar" style="text-decoration:none;">CSS Stitch Effect </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src91.rar" style="text-decoration:none;"> CSS Text align</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src92.rar" style="text-decoration:none;"> CSS Text underline hover Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src93.rar" style="text-decoration:none;"> CSS Text with Different Shadow</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src94.rar" style="text-decoration:none;"> CSS Title Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src95.rar" style="text-decoration:none;"> CSS Typing Effect</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src96.rar" style="text-decoration:none;">JavaScript and CSS3 Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src97.rar" style="text-decoration:none;">CSS3 Button </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src98.rar" style="text-decoration:none;">CSS3 Text Animation Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src99.rar" style="text-decoration:none;">Dashed Underline Hyperlink on Hover</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src100.rar" style="text-decoration:none;"> HTML Javascript Clock</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src101.rar" style="text-decoration:none;"> Display Browser Information</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src102.rar" style="text-decoration:none;"> Display Browser Properties (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src103.rar" style="text-decoration:none;"> Document Text Sizer</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src104.rar" style="text-decoration:none;"> Drop down box with automatic redirect</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src105.rar" style="text-decoration:none;">JavaScript Drop down box </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src106.rar" style="text-decoration:none;">Easy DropDown CSS menu</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src107.rar" style="text-decoration:none;">Eating Text </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src108.rar" style="text-decoration:none;">Effective 3D effects with CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src109.rar" style="text-decoration:none;"> Local Storage test</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src110.rar" style="text-decoration:none;"> Exponential Power Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src111.rar" style="text-decoration:none;"> Find and replace text dynamically via JavaScript</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src112.rar" style="text-decoration:none;"> Find the Week of your birth (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src113.rar" style="text-decoration:none;"> Easy Savings Calculator</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src114.rar" style="text-decoration:none;">Fly-in Header Script</a></b></li>
 
 
 
