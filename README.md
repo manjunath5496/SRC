@@ -330,9 +330,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src120.rar" style="text-decoration:none;"> Gradient to border using CSS3</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src49.rar" style="text-decoration:none;"> Animated model of our solar system [no js]</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src121.rar" style="text-decoration:none;"> Highlight Text</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src50.rar" style="text-decoration:none;"> Animated Sidenav Example Full Width</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src122.rar" style="text-decoration:none;"> Highlight search text using JavaScript</a></b></li>
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src51.rar" style="text-decoration:none;">Animated Sidenav Example</a></b></li>
