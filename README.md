@@ -120,14 +120,14 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src22.rar" style="text-decoration:none;"> Amazing Glitter Star Effect Using Pure CSS3</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src5.rar" style="text-decoration:none;"> Photo Editor</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src23.rar" style="text-decoration:none;"> Amazing Photo Flip Effect Using Pure CSS3</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src6.rar" style="text-decoration:none;">Slide Toggle Animation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src24.rar" style="text-decoration:none;">Amazing Side Page Navigation With 3D Page Flip Effect Using CSS3</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src7.rar" style="text-decoration:none;">Gradient Background Animation </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src25.rar" style="text-decoration:none;">Amazing Mac(OS X) Dock UI Using Pure CSS3 </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src8.rar" style="text-decoration:none;">3D Items Quick View</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src26.rar" style="text-decoration:none;">Play music in the background</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src9.rar" style="text-decoration:none;">JavaScript Alarm Clock </a></b></li>
 
