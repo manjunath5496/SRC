@@ -200,32 +200,32 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src59.rar" style="text-decoration:none;"> 3D Button</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src24.rar" style="text-decoration:none;">Amazing Side Page Navigation With 3D Page Flip Effect Using CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src60.rar" style="text-decoration:none;">Bullets</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src25.rar" style="text-decoration:none;">Amazing Mac(OS X) Dock UI Using Pure CSS3 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src61.rar" style="text-decoration:none;">Burger Menu </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src26.rar" style="text-decoration:none;">Background with color overlay with opacity in CSS</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src62.rar" style="text-decoration:none;">Business Card</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src27.rar" style="text-decoration:none;">jQuery Back To Top Button </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src63.rar" style="text-decoration:none;">Button with sliding information </a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src28.rar" style="text-decoration:none;"> Blur image hover effect using CSS</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src64.rar" style="text-decoration:none;"> Calculate the Time Spent on Site (JavaScript)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src29.rar" style="text-decoration:none;"> BookBlock: A Content Flip Plugin</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src65.rar" style="text-decoration:none;"> Calorie Calculator Script</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src30.rar" style="text-decoration:none;"> Book Reviews</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src66.rar" style="text-decoration:none;"> Change Selection Background color using CSS3</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src31.rar" style="text-decoration:none;"> On Hover Dropdown Menu using Bootstrap</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src67.rar" style="text-decoration:none;"> Change the background color on button click</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src32.rar" style="text-decoration:none;"> Twitter Bootstrap Modal Login Popup</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src68.rar" style="text-decoration:none;"> Change the color of the text on button click (HTML)</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src33.rar" style="text-decoration:none;">Bubble Shooter Game</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src69.rar" style="text-decoration:none;">Check file size with JavaScript</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src34.rar" style="text-decoration:none;">Burger menu transformation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src70.rar" style="text-decoration:none;">Clock and Date Around Mouse Cursor (JavaScript)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src35.rar" style="text-decoration:none;">Enable and disable text box based on clicking of checkbox </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src71.rar" style="text-decoration:none;">Clock Button (JavaScript) </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src36.rar" style="text-decoration:none;">Address Book With Bootstrap and jQuery </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src72.rar" style="text-decoration:none;">Color Changer</a></b></li>
 
 
 
