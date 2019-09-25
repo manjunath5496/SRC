@@ -171,13 +171,13 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src46.rar" style="text-decoration:none;"> Age Calculator</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src11.rar" style="text-decoration:none;"> Animated Information Bar</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src47.rar" style="text-decoration:none;"> Analog clock (static)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src12.rar" style="text-decoration:none;"> Amazing Neon Text Effect With Pure CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src48.rar" style="text-decoration:none;"> Animated border effect</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src13.rar" style="text-decoration:none;"> Amazing Pure CSS3 Flip Effect Design</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src49.rar" style="text-decoration:none;"> Animated model of our solar system [no js]</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src14.rar" style="text-decoration:none;"> Advanced JavaScript Typing Test System</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src50.rar" style="text-decoration:none;"> Animated Sidenav Example Full Width</a></b></li>
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src15.rar" style="text-decoration:none;">Analog Clock CSS3</a></b></li>
