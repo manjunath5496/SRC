@@ -335,54 +335,58 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src122.rar" style="text-decoration:none;"> Highlight search text using JavaScript</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src51.rar" style="text-decoration:none;">Animated Sidenav Example</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src123.rar" style="text-decoration:none;">Highlight the phone number (JavaScript)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src52.rar" style="text-decoration:none;">Animation with Text (JavaScript) </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src124.rar" style="text-decoration:none;">HTML Close Window button </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src53.rar" style="text-decoration:none;">Article Title Hover Effect</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src125.rar" style="text-decoration:none;">HTML Close Window link</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src54.rar" style="text-decoration:none;">Background Big Text Crawl</a></b></li>
-
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src55.rar" style="text-decoration:none;"> Blink background on button click (JavaScript)</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src56.rar" style="text-decoration:none;"> BMI Calculator </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src57.rar" style="text-decoration:none;"> JavaScript weight and height calculator</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src58.rar" style="text-decoration:none;"> Breadcrumbs</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src59.rar" style="text-decoration:none;"> 3D Button</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src126.rar" style="text-decoration:none;">HTML Message Alert on Button Click</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src60.rar" style="text-decoration:none;">Bullets</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src127.rar" style="text-decoration:none;"> HTML Side menu</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src61.rar" style="text-decoration:none;">Burger Menu </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src128.rar" style="text-decoration:none;"> HTML URL Input Box </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src62.rar" style="text-decoration:none;">Business Card</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src129.rar" style="text-decoration:none;"> Html World Currency Finder</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src63.rar" style="text-decoration:none;">Button with sliding information </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src130.rar" style="text-decoration:none;"> Simple Html Calculator</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src64.rar" style="text-decoration:none;"> Calculate the Time Spent on Site (JavaScript)</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src65.rar" style="text-decoration:none;"> Calorie Calculator Script</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src66.rar" style="text-decoration:none;"> Change Selection Background color using CSS3</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src67.rar" style="text-decoration:none;"> Change the background color on button click</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src68.rar" style="text-decoration:none;"> Change the color of the text on button click (HTML)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src131.rar" style="text-decoration:none;"> Character Entity Reference Chart</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src69.rar" style="text-decoration:none;">Check file size with JavaScript</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src132.rar" style="text-decoration:none;">HTML5 Canvas Mouse Coordinates</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src70.rar" style="text-decoration:none;">Clock and Date Around Mouse Cursor (JavaScript)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src133.rar" style="text-decoration:none;">Hyperlink HTML Bookmark </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src71.rar" style="text-decoration:none;">Clock Button (JavaScript) </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src134.rar" style="text-decoration:none;">If you click this the specified url will be open .. (JavaScript)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src72.rar" style="text-decoration:none;">Color Changer</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src135.rar" style="text-decoration:none;">Intelligent button (HTML) </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src136.rar" style="text-decoration:none;"> JavaScript Advanced Scientific Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src137.rar" style="text-decoration:none;"> JavaScript Animated Background</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src138.rar" style="text-decoration:none;"> JavaScript Animated Text Button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src139.rar" style="text-decoration:none;"> JavaScript Area Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src140.rar" style="text-decoration:none;"> JavaScript ASCII Keyboard Code</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src141.rar" style="text-decoration:none;">JavaScript Astrological Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src142.rar" style="text-decoration:none;">JavaScript Background Color Change effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src143.rar" style="text-decoration:none;">JavaScript Basic Calendar </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src144.rar" style="text-decoration:none;">JavaScript Bing Search Engine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src145.rar" style="text-decoration:none;">JavaScript Button Slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src146.rar" style="text-decoration:none;">JavaScript Byte Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src147.rar" style="text-decoration:none;">JavaScript Byte Conversion Calculator</a></b></li>
 
 
 
