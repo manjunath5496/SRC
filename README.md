@@ -255,16 +255,16 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src85.rar" style="text-decoration:none;"> CSS Link URL Preview</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src14.rar" style="text-decoration:none;"> Advanced JavaScript Typing Test System</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src86.rar" style="text-decoration:none;"> CSS Linkedin button</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src15.rar" style="text-decoration:none;">Analog Clock CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src87.rar" style="text-decoration:none;">CSS Long Shadow Text</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src16.rar" style="text-decoration:none;">Amazing Social Icons Vibrating Effect Using Pure CSS3 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src88.rar" style="text-decoration:none;">CSS Rotate Text </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src17.rar" style="text-decoration:none;">Alternate Fixed And Scroll Backgrounds</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src89.rar" style="text-decoration:none;">CSS Sphere</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src18.rar" style="text-decoration:none;">Book Cover Animation </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src90.rar" style="text-decoration:none;">CSS Stitch Effect </a></b></li>
 
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src19.rar" style="text-decoration:none;"> AngularJS Client-side Image Optimization</a></b></li>
