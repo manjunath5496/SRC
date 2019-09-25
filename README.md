@@ -150,6 +150,84 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src36.rar" style="text-decoration:none;">Address Book With Bootstrap and jQuery </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src37.rar" style="text-decoration:none;"> 3D CSS Sphere</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src38.rar" style="text-decoration:none;"> 3D in CSS3 - 3D 6 Sides Cube</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src39.rar" style="text-decoration:none;"> 3D in CSS3 - 3D Stacking Concept</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src40.rar" style="text-decoration:none;"> JavaScript Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src41.rar" style="text-decoration:none;"> A Skeletal Animation Framework in JavaScript</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src42.rar" style="text-decoration:none;">AC ROBOT</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src43.rar" style="text-decoration:none;">Accessible footnotes with CSS </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src44.rar" style="text-decoration:none;">Advanced Gallery script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src45.rar" style="text-decoration:none;">Advanced Scientific Calculator </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src46.rar" style="text-decoration:none;"> Age Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src11.rar" style="text-decoration:none;"> Animated Information Bar</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src12.rar" style="text-decoration:none;"> Amazing Neon Text Effect With Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src13.rar" style="text-decoration:none;"> Amazing Pure CSS3 Flip Effect Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src14.rar" style="text-decoration:none;"> Advanced JavaScript Typing Test System</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src15.rar" style="text-decoration:none;">Analog Clock CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src16.rar" style="text-decoration:none;">Amazing Social Icons Vibrating Effect Using Pure CSS3 </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src17.rar" style="text-decoration:none;">Alternate Fixed And Scroll Backgrounds</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src18.rar" style="text-decoration:none;">Book Cover Animation </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src19.rar" style="text-decoration:none;"> AngularJS Client-side Image Optimization</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src20.rar" style="text-decoration:none;"> 3D Download Button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src21.rar" style="text-decoration:none;"> Animated CSS3 Hover Caption with Image Zoom Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src22.rar" style="text-decoration:none;"> Amazing Glitter Star Effect Using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src23.rar" style="text-decoration:none;"> Amazing Photo Flip Effect Using Pure CSS3</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src24.rar" style="text-decoration:none;">Amazing Side Page Navigation With 3D Page Flip Effect Using CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src25.rar" style="text-decoration:none;">Amazing Mac(OS X) Dock UI Using Pure CSS3 </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src26.rar" style="text-decoration:none;">Background with color overlay with opacity in CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src27.rar" style="text-decoration:none;">jQuery Back To Top Button </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src28.rar" style="text-decoration:none;"> Blur image hover effect using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src29.rar" style="text-decoration:none;"> BookBlock: A Content Flip Plugin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src30.rar" style="text-decoration:none;"> Book Reviews</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src31.rar" style="text-decoration:none;"> On Hover Dropdown Menu using Bootstrap</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src32.rar" style="text-decoration:none;"> Twitter Bootstrap Modal Login Popup</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src33.rar" style="text-decoration:none;">Bubble Shooter Game</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src34.rar" style="text-decoration:none;">Burger menu transformation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src35.rar" style="text-decoration:none;">Enable and disable text box based on clicking of checkbox </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src36.rar" style="text-decoration:none;">Address Book With Bootstrap and jQuery </a></b></li>
+
+
 
 
 
