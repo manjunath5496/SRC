@@ -627,14 +627,29 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src257.rar" style="text-decoration:none;"> Vertical Drop-Down Navigation using HTML and CSS</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src258.rar" style="text-decoration:none;"> jQuery animation of multiple Background images with fade-in fade-out effect</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src259.rar" style="text-decoration:none;"> jQuery Bounce Effect</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src260.rar" style="text-decoration:none;"> jQuery Data Tables - Saving Custom Filters</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src261.rar" style="text-decoration:none;"> jQuery Effects - Hide and Show</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src262.rar" style="text-decoration:none;"> jQuery fade Toggle Effect (Table)</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src263.rar" style="text-decoration:none;"> jQuery fade Toggle effect (text)</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src264.rar" style="text-decoration:none;"> jQuery Flip example</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src265.rar" style="text-decoration:none;"> jQuery Picture Memory Game</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src266.rar" style="text-decoration:none;"> jQuery Plugin For Image Zoom On Mouse Hover</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src267.rar" style="text-decoration:none;"> jQuery Script to Disable Right Click and Control Save</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src268.rar" style="text-decoration:none;"> jQuery slide Toggle Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src269.rar" style="text-decoration:none;"> jQuery Sticky Sidebar Multiple Example</a></b></li>
 
 
 
