@@ -755,41 +755,41 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src316.rar" style="text-decoration:none;"> Scrolling text bottom to top using jQuery</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src243.rar" style="text-decoration:none;">Text fading / blurring away</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src317.rar" style="text-decoration:none;">Scroll and intro disappears</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src244.rar" style="text-decoration:none;">Text follow mouse (JavaScript) </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src318.rar" style="text-decoration:none;">Search Bar with JavaScript </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src245.rar" style="text-decoration:none;">Text Reverser</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src319.rar" style="text-decoration:none;">Video As A Background For Website Section</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src246.rar" style="text-decoration:none;">Text with Moving Shadow (CSS)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src320.rar" style="text-decoration:none;">Set border using CSS background properties</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src247.rar" style="text-decoration:none;"> Text-decoration: underline animated</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src321.rar" style="text-decoration:none;"> Set Moving Background image using CSS</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src248.rar" style="text-decoration:none;"> Title fade-in CSS animation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src322.rar" style="text-decoration:none;"> Share a Link via Google Plus (HTML)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src249.rar" style="text-decoration:none;"> Triple Moving Text Marquee</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src323.rar" style="text-decoration:none;">CSS Shooting game</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src250.rar" style="text-decoration:none;"> Typing effect with JS </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src324.rar" style="text-decoration:none;"> Show/Hide Content with CSS and JavaScript </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src251.rar" style="text-decoration:none;"> Typing Text script</a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src252.rar" style="text-decoration:none;">Underwater CSS pattern </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src253.rar" style="text-decoration:none;">Vehicle Loan EMI Calculator</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src254.rar" style="text-decoration:none;">Vertical CSS Menus </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src255.rar" style="text-decoration:none;">Vertical Text Effect</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src256.rar" style="text-decoration:none;"> Vertical text using CSS</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src257.rar" style="text-decoration:none;"> Vertical Drop-Down Navigation using HTML and CSS</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src325.rar" style="text-decoration:none;"> Side Nav</a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src258.rar" style="text-decoration:none;"> jQuery animation of multiple Background images with fade-in fade-out effect</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src326.rar" style="text-decoration:none;">Simple Captcha </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src259.rar" style="text-decoration:none;"> jQuery Bounce Effect</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src327.rar" style="text-decoration:none;">Simple Draggable Element Using Pure JavaScript (No Jquery UI)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src328.rar" style="text-decoration:none;">Simple HTML5 Custom Video Player Using jQuery </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src329.rar" style="text-decoration:none;">Simple image button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src330.rar" style="text-decoration:none;"> Simple image hover effect using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src331.rar" style="text-decoration:none;"> Simple Meta Tag Generator</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src332.rar" style="text-decoration:none;"> Image Overlay effect using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src333.rar" style="text-decoration:none;"> Simple Responsive Design Demo</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src260.rar" style="text-decoration:none;"> jQuery Data Tables - Saving Custom Filters</a></b></li>
 
