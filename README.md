@@ -791,25 +791,41 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src333.rar" style="text-decoration:none;"> Simple Responsive Design Demo</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src260.rar" style="text-decoration:none;"> jQuery Data Tables - Saving Custom Filters</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src334.rar" style="text-decoration:none;"> Simple tool tip script</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src261.rar" style="text-decoration:none;"> jQuery Effects - Hide and Show</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src335.rar" style="text-decoration:none;"> Simple jQuery color chooser</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src262.rar" style="text-decoration:none;"> jQuery fade Toggle Effect (Table)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src336.rar" style="text-decoration:none;"> Hover social icon</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src263.rar" style="text-decoration:none;"> jQuery fade Toggle effect (text)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src337.rar" style="text-decoration:none;"> Simplest jQuery Dropdown Nav Demo</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src264.rar" style="text-decoration:none;"> jQuery Flip example</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src338.rar" style="text-decoration:none;"> Creative CSS3 Animation Menus</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src265.rar" style="text-decoration:none;"> jQuery Picture Memory Game</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src339.rar" style="text-decoration:none;"> Swinging Image CSS3 Animation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src266.rar" style="text-decoration:none;"> jQuery Plugin For Image Zoom On Mouse Hover</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src340.rar" style="text-decoration:none;"> Tag shape using CSS</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src267.rar" style="text-decoration:none;"> jQuery Script to Disable Right Click and Control Save</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src341.rar" style="text-decoration:none;"> Appsoft Website Template</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src268.rar" style="text-decoration:none;"> jQuery slide Toggle Effect</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src342.rar" style="text-decoration:none;"> Tetris with jQuery</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src269.rar" style="text-decoration:none;"> jQuery Sticky Sidebar Multiple Example</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src343.rar" style="text-decoration:none;"> CSS Menu text only</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  </ul>
