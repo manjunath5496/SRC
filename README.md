@@ -812,6 +812,47 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src343.rar" style="text-decoration:none;"> CSS Menu text only</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src344.rar" style="text-decoration:none;"> Text Overlay on Image Hover </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src345.rar" style="text-decoration:none;"> Text Reveal On Mouse Hover</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src346.rar" style="text-decoration:none;">Text Animation </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src347.rar" style="text-decoration:none;">Text rotating animation using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src348.rar" style="text-decoration:none;">Thumb Nail Slider </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src349.rar" style="text-decoration:none;">Tic Tac Toe Game</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src350.rar" style="text-decoration:none;"> Tinted Image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src351.rar" style="text-decoration:none;"> Tooltip </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src352.rar" style="text-decoration:none;"> Tooltip style</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src353.rar" style="text-decoration:none;"> Form field tooltip</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src354.rar" style="text-decoration:none;"> jQuery SwipeNav Demo</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src355.rar" style="text-decoration:none;"> jQuery XSwitch Plugin Examples</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src356.rar" style="text-decoration:none;"> Video: overlay</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src337.rar" style="text-decoration:none;"> Simplest jQuery Dropdown Nav Demo</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src338.rar" style="text-decoration:none;"> Creative CSS3 Animation Menus</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src339.rar" style="text-decoration:none;"> Swinging Image CSS3 Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src340.rar" style="text-decoration:none;"> Tag shape using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src341.rar" style="text-decoration:none;"> Appsoft Website Template</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src342.rar" style="text-decoration:none;"> Tetris with jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src343.rar" style="text-decoration:none;"> CSS Menu text only</a></b></li>
 
 
 
