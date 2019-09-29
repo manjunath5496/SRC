@@ -1072,6 +1072,15 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src467.rar" style="text-decoration:none;"> Change image on mouseover</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src468.rar" style="text-decoration:none;">  Change Image on Hover (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src469.rar" style="text-decoration:none;"> jQuery based shopping cart</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src470.rar" style="text-decoration:none;"> Carousel slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src471.rar" style="text-decoration:none;">Card perfect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src472.rar" style="text-decoration:none;"> Caps lock on / off indicator</a></b></li>
 
 
 
