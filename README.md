@@ -884,7 +884,84 @@
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src378.rar" style="text-decoration:none;"> Horizontal Progress animated bar using jQuery</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src379.rar" style="text-decoration:none;"> Animated Search Filter</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src380.rar" style="text-decoration:none;"> Vertical Animated Progress Bar using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src381.rar" style="text-decoration:none;"> Apple Watch Face Imitation (Customizable)  </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src382.rar" style="text-decoration:none;"> Article Box </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src383.rar" style="text-decoration:none;"> Article Tiles </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src384.rar" style="text-decoration:none;">audio Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src385.rar" style="text-decoration:none;">Blink Text and Image using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src386.rar" style="text-decoration:none;">Auto Tab Using jQuery </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src387.rar" style="text-decoration:none;">Start Auto Download file</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src388.rar" style="text-decoration:none;"> Automatic Slideshow</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src389.rar" style="text-decoration:none;"> Auto spin effect using CSS3 </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src390.rar" style="text-decoration:none;"> Add bugs with JavaScript which walk on your page</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src391.rar" style="text-decoration:none;"> 3D Rotating Menu With CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src392.rar" style="text-decoration:none;"> Sticky Back to Top Button Example-1</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src393.rar" style="text-decoration:none;"> Sticky Back to Top Button Example-2</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src394.rar" style="text-decoration:none;"> jQuery Bootstrap Drawer Plugin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src395.rar" style="text-decoration:none;"> Bootstrap Sidebar Extension Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src396.rar" style="text-decoration:none;"> Bouncing image script </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src397.rar" style="text-decoration:none;"> jQuery Brazzers Carousel</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src398.rar" style="text-decoration:none;"> Education Website Template</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src399.rar" style="text-decoration:none;"> Button Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src400.rar" style="text-decoration:none;"> CSS Mac Dock Menu</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src401.rar" style="text-decoration:none;"> jQuery card slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src364.rar" style="text-decoration:none;"> Vanilla JS Calendar</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src365.rar" style="text-decoration:none;"> Vertical Tab slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src366.rar" style="text-decoration:none;"> 3D Portfolio Panel Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src367.rar" style="text-decoration:none;"> 12 + 3D Buttons Using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src368.rar" style="text-decoration:none;"> Chunky Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src369.rar" style="text-decoration:none;"> HTML5 Space Shooter</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src370.rar" style="text-decoration:none;"> Html5 ad Slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src371.rar" style="text-decoration:none;"> Add to cart interaction</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src372.rar" style="text-decoration:none;"> Adding An Image Background To Your Table (HTML)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src373.rar" style="text-decoration:none;"> jQuery Ajax Shopping Cart Plugin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src374.rar" style="text-decoration:none;"> Super Shopping Cart with jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src375.rar" style="text-decoration:none;"> Animated Scroll to Top</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src376.rar" style="text-decoration:none;">Animated Slides</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src377.rar" style="text-decoration:none;"> Animated Tab Menu Using jQuery</a></b></li>
 
 
 
