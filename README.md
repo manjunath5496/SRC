@@ -872,7 +872,15 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src372.rar" style="text-decoration:none;"> Adding An Image Background To Your Table (HTML)</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src373.rar" style="text-decoration:none;"> jQuery Ajax Shopping Cart Plugin</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src374.rar" style="text-decoration:none;"> Super Shopping Cart with jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src375.rar" style="text-decoration:none;"> Animated Scroll to Top</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src376.rar" style="text-decoration:none;">Animated Slides</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src377.rar" style="text-decoration:none;"> Animated Tab Menu Using jQuery</a></b></li>
 
 
 
