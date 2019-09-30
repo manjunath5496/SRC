@@ -1326,9 +1326,9 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src585.rar" style="text-decoration:none;"> HTML Fonts and Styles </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src390.rar" style="text-decoration:none;"> Add bugs with JavaScript which walk on your page</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src586.rar" style="text-decoration:none;"> HTML Marquee</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src391.rar" style="text-decoration:none;"> 3D Rotating Menu With CSS3</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src587.rar" style="text-decoration:none;">  HTML Links and iFrames</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src392.rar" style="text-decoration:none;"> Sticky Back to Top Button Example-1</a></b></li>
 
