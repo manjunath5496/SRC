@@ -1295,17 +1295,17 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src572.rar" style="text-decoration:none;">HTML5 Canvas JavaScript Drawing App Example</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src377.rar" style="text-decoration:none;"> Animated Tab Menu Using jQuery</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src573.rar" style="text-decoration:none;"> HTML5 video playlist</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src378.rar" style="text-decoration:none;"> Horizontal Progress animated bar using jQuery</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src574.rar" style="text-decoration:none;"> HTML5 Video and Background Images - Example</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src379.rar" style="text-decoration:none;"> Animated Search Filter</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src575.rar" style="text-decoration:none;"> HTML5 Drag and Drop Shopping Cart</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src380.rar" style="text-decoration:none;"> Vertical Animated Progress Bar using jQuery</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src576.rar" style="text-decoration:none;"> HTML Template </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src381.rar" style="text-decoration:none;"> Apple Watch Face Imitation (Customizable)  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src577.rar" style="text-decoration:none;"> HTML Slides </a></b></li>
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src382.rar" style="text-decoration:none;"> Article Box </a></b></li>
