@@ -1092,6 +1092,419 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src476.rar" style="text-decoration:none;"> Airtel Website Template</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src477.rar" style="text-decoration:none;">CSS Parallax scrolling effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src478.rar" style="text-decoration:none;"CSS Typing effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src479.rar" style="text-decoration:none;">Curtain Raiser </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src480.rar" style="text-decoration:none;">Curved Text with CSS and jQuery</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src481.rar" style="text-decoration:none;"> Custom filters and ng-repeat in AngularJS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src482.rar" style="text-decoration:none;"> Custom 404 error page</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src483.rar" style="text-decoration:none;"> Customizable Analog Clocks Using Pure JS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src484.rar" style="text-decoration:none;"> Decorate heading using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src485.rar" style="text-decoration:none;"> Different Size Photo Slider</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src486.rar" style="text-decoration:none;">Dino Pairs Game - Using CSS3 Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src487.rar" style="text-decoration:none;">Display popup on page load</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src488.rar" style="text-decoration:none;">Drag and Drop Example </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src489.rar" style="text-decoration:none;">Drag and Drop Shopping Cart using jQuery</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src490.rar" style="text-decoration:none;"> Drag 'n' Drop Shopping Cart With jQuery UI</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src491.rar" style="text-decoration:none;"> TrueType Fonts in JavaScript with Font-Face </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src492.rar" style="text-decoration:none;"> Dropdown Filter/Search by product or items Using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src493.rar" style="text-decoration:none;"> Dropdown responsive menu using only CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src494.rar" style="text-decoration:none;"> Dynamically Add and Delete Textbox using jQuery</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src495.rar" style="text-decoration:none;">Dynamically add input field using jQuery </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src496.rar" style="text-decoration:none;">jQuery jTLine Plugin Example </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src497.rar" style="text-decoration:none;">Earth Orbit</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src498.rar" style="text-decoration:none;">Easiest Drop Down Navigation Menu</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src499.rar" style="text-decoration:none;"> Ecommerce Slider </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src500.rar" style="text-decoration:none;"> Elastic Image Slideshow with Thumbnail Preview (Automatic)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src501.rar" style="text-decoration:none;"> Elastic Image Slideshow with Thumbnail Preview (Manual)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src306.rar" style="text-decoration:none;"> Discount left corner Ribbon using pure CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src307.rar" style="text-decoration:none;"> Olympics CSS Spinner</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src308.rar" style="text-decoration:none;">On MouseOver display image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src309.rar" style="text-decoration:none;">Event list in calendar view</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src310.rar" style="text-decoration:none;">Responsive Toggle Nav jQuery Plugin Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src311.rar" style="text-decoration:none;">Savings Calculator </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src312.rar" style="text-decoration:none;"> Scattered Polaroids Gallery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src313.rar" style="text-decoration:none;"> Scratch off image to reveal a different one</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src314.rar" style="text-decoration:none;"> Scroll of Social Media Icon</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src315.rar" style="text-decoration:none;"> Scroll Activated Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src316.rar" style="text-decoration:none;"> Scrolling text bottom to top using jQuery</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src317.rar" style="text-decoration:none;">Scroll and intro disappears</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src318.rar" style="text-decoration:none;">Search Bar with JavaScript </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src319.rar" style="text-decoration:none;">Video As A Background For Website Section</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src320.rar" style="text-decoration:none;">Set border using CSS background properties</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src321.rar" style="text-decoration:none;"> Set Moving Background image using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src322.rar" style="text-decoration:none;"> Share a Link via Google Plus (HTML)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src323.rar" style="text-decoration:none;">CSS Shooting game</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src324.rar" style="text-decoration:none;"> Show/Hide Content with CSS and JavaScript </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src325.rar" style="text-decoration:none;"> Side Nav</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src326.rar" style="text-decoration:none;">Simple Captcha </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src327.rar" style="text-decoration:none;">Simple Draggable Element Using Pure JavaScript (No Jquery UI)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src328.rar" style="text-decoration:none;">Simple HTML5 Custom Video Player Using jQuery </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src329.rar" style="text-decoration:none;">Simple image button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src330.rar" style="text-decoration:none;"> Simple image hover effect using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src331.rar" style="text-decoration:none;"> Simple Meta Tag Generator</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src332.rar" style="text-decoration:none;"> Image Overlay effect using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src333.rar" style="text-decoration:none;"> Simple Responsive Design Demo</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src334.rar" style="text-decoration:none;"> Simple tool tip script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src335.rar" style="text-decoration:none;"> Simple jQuery color chooser</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src336.rar" style="text-decoration:none;"> Hover social icon</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src337.rar" style="text-decoration:none;"> Simplest jQuery Dropdown Nav Demo</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src338.rar" style="text-decoration:none;"> Creative CSS3 Animation Menus</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src339.rar" style="text-decoration:none;"> Swinging Image CSS3 Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src340.rar" style="text-decoration:none;"> Tag shape using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src341.rar" style="text-decoration:none;"> Appsoft Website Template</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src342.rar" style="text-decoration:none;"> Tetris with jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src343.rar" style="text-decoration:none;"> CSS Menu text only</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src344.rar" style="text-decoration:none;"> Text Overlay on Image Hover </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src345.rar" style="text-decoration:none;"> Text Reveal On Mouse Hover</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src346.rar" style="text-decoration:none;">Text Animation </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src347.rar" style="text-decoration:none;">Text rotating animation using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src348.rar" style="text-decoration:none;">Thumb Nail Slider </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src349.rar" style="text-decoration:none;">Tic Tac Toe Game</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src350.rar" style="text-decoration:none;"> Tinted Image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src351.rar" style="text-decoration:none;"> Tooltip </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src352.rar" style="text-decoration:none;"> Tooltip style</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src353.rar" style="text-decoration:none;"> Form field tooltip</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src354.rar" style="text-decoration:none;"> jQuery SwipeNav Demo</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src355.rar" style="text-decoration:none;"> jQuery XSwitch Plugin Examples</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src356.rar" style="text-decoration:none;"> Video: overlay</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src357.rar" style="text-decoration:none;"> HTML - Twitter share button</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src358.rar" style="text-decoration:none;"> Side by side / Vertical Orientation / Basic Usage jQuery plugin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src359.rar" style="text-decoration:none;"> Very Simple jQuery Typing Script</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src360.rar" style="text-decoration:none;"> Typing animation using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src361.rar" style="text-decoration:none;"> Typing Test</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src362.rar" style="text-decoration:none;"> Ultimate Matrix Like Effect Using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src363.rar" style="text-decoration:none;"> CSS3 Dynamic Stack of Index Cards</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src364.rar" style="text-decoration:none;"> Vanilla JS Calendar</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src365.rar" style="text-decoration:none;"> Vertical Tab slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src366.rar" style="text-decoration:none;"> 3D Portfolio Panel Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src367.rar" style="text-decoration:none;"> 12 + 3D Buttons Using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src368.rar" style="text-decoration:none;"> Chunky Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src369.rar" style="text-decoration:none;"> HTML5 Space Shooter</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src370.rar" style="text-decoration:none;"> Html5 ad Slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src371.rar" style="text-decoration:none;"> Add to cart interaction</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src372.rar" style="text-decoration:none;"> Adding An Image Background To Your Table (HTML)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src373.rar" style="text-decoration:none;"> jQuery Ajax Shopping Cart Plugin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src374.rar" style="text-decoration:none;"> Super Shopping Cart with jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src375.rar" style="text-decoration:none;"> Animated Scroll to Top</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src376.rar" style="text-decoration:none;">Animated Slides</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src377.rar" style="text-decoration:none;"> Animated Tab Menu Using jQuery</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src378.rar" style="text-decoration:none;"> Horizontal Progress animated bar using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src379.rar" style="text-decoration:none;"> Animated Search Filter</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src380.rar" style="text-decoration:none;"> Vertical Animated Progress Bar using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src381.rar" style="text-decoration:none;"> Apple Watch Face Imitation (Customizable)  </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src382.rar" style="text-decoration:none;"> Article Box </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src383.rar" style="text-decoration:none;"> Article Tiles </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src384.rar" style="text-decoration:none;">audio Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src385.rar" style="text-decoration:none;">Blink Text and Image using CSS</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src386.rar" style="text-decoration:none;">Auto Tab Using jQuery </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src387.rar" style="text-decoration:none;">Start Auto Download file</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src388.rar" style="text-decoration:none;"> Automatic Slideshow</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src389.rar" style="text-decoration:none;"> Auto spin effect using CSS3 </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src390.rar" style="text-decoration:none;"> Add bugs with JavaScript which walk on your page</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src391.rar" style="text-decoration:none;"> 3D Rotating Menu With CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src392.rar" style="text-decoration:none;"> Sticky Back to Top Button Example-1</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src393.rar" style="text-decoration:none;"> Sticky Back to Top Button Example-2</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src394.rar" style="text-decoration:none;"> jQuery Bootstrap Drawer Plugin</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src395.rar" style="text-decoration:none;"> Bootstrap Sidebar Extension Example</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src396.rar" style="text-decoration:none;"> Bouncing image script </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src397.rar" style="text-decoration:none;"> jQuery Brazzers Carousel</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src398.rar" style="text-decoration:none;"> Education Website Template</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src399.rar" style="text-decoration:none;"> Button Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src400.rar" style="text-decoration:none;"> CSS Mac Dock Menu</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src401.rar" style="text-decoration:none;"> jQuery card slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src402.rar" style="text-decoration:none;"> Button Effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src403.rar" style="text-decoration:none;"> JavaScript Calendar Widget</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src404.rar" style="text-decoration:none;"> CSS3  Animated buttons</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src405.rar" style="text-decoration:none;"> Amazing Show Case Widget using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src406.rar" style="text-decoration:none;"> CSS3 Preloading Screen Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src407.rar" style="text-decoration:none;">  CSS3 glowing text</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src408.rar" style="text-decoration:none;"> CSS3 Flip Hover Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src409.rar" style="text-decoration:none;"> CSS Read More / Less Toggle</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src410.rar" style="text-decoration:none;"> CSS Popup with Lightbox effect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src411.rar" style="text-decoration:none;">  CSS Menu</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src412.rar" style="text-decoration:none;"> CSS writing mode </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src413.rar" style="text-decoration:none;"> CSS3 Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src414.rar" style="text-decoration:none;">CSS Template</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src415.rar" style="text-decoration:none;"> CSS Snow Effect</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src416.rar" style="text-decoration:none;"> Awesome Looking CSS3 Slider </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src417.rar" style="text-decoration:none;"> CSS Popup Image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src418.rar" style="text-decoration:none;">CSS Placing video over an inline image    </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src419.rar" style="text-decoration:none;">CSS Placing text over an inline image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src420.rar" style="text-decoration:none;">CSS Page Resource Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src421.rar" style="text-decoration:none;"> CSS Only Responsive Carousel </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src422.rar" style="text-decoration:none;"> CSS-only Playground</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src423.rar" style="text-decoration:none;">  CSS Only Full Screen Background Image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src424.rar" style="text-decoration:none;"> CSS Menu Maker</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src425.rar" style="text-decoration:none;"> CSS Menu with image Background </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src426.rar" style="text-decoration:none;"> CSS Image Reflection</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src427.rar" style="text-decoration:none;"> CSS Image Hover Effects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src428.rar" style="text-decoration:none;">  CSS Image Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src429.rar" style="text-decoration:none;"> CSS Image and Video Reflection  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src430.rar" style="text-decoration:none;"> CSS- HTML Template </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src431.rar" style="text-decoration:none;"> CSS Horizontal menu with image Example-1</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src432.rar" style="text-decoration:none;"> CSS Horizontal Menu with one image Example-2</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src433.rar" style="text-decoration:none;"> CSS Horizontal menu with image Example-3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src434.rar" style="text-decoration:none;"> CSS Horizontal menu with image Example-4</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src435.rar" style="text-decoration:none;"> CSS Horizontal Menu with description</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src436.rar" style="text-decoration:none;"> CSS Drop down menu | neusoft  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src437.rar" style="text-decoration:none;"> CSS Daily UI Cards</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src438.rar" style="text-decoration:none;"> CSS cube transition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src439.rar" style="text-decoration:none;">  CSS Card  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src440.rar" style="text-decoration:none;">  CSS Box screen video display</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src441.rar" style="text-decoration:none;"> CSS Border Image Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src442.rar" style="text-decoration:none;"> CSS background image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src443.rar" style="text-decoration:none;"> CSS Background Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src444.rar" style="text-decoration:none;">  CSS – Image Vertical Pan by Mouse Hovering</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src445.rar" style="text-decoration:none;"> CSS – Image Brighten by Mouse Hovering </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src446.rar" style="text-decoration:none;"> Simple popup box for login form using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src447.rar" style="text-decoration:none;">Explosion Demo</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src448.rar" style="text-decoration:none;"> Animated Gooey Effects - Wobble Window Using jQuery</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src449.rar" style="text-decoration:none;"> Super cool image hover effect </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src450.rar" style="text-decoration:none;"> Cool!  Die Roll Using CSS3 AND jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src451.rar" style="text-decoration:none;"> Cool Parallax Web Page Drink Beer Effect Using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src452.rar" style="text-decoration:none;"> Convert Color Image to Black and White Image Using Pure CSS3</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src453.rar" style="text-decoration:none;"> Simply scroll</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src454.rar" style="text-decoration:none;"> Contact Me Animation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src455.rar" style="text-decoration:none;"> Product Color Changer </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src456.rar" style="text-decoration:none;"> CodePen - 404 Template</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src457.rar" style="text-decoration:none;"> Cloud rain animation using CSS jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src458.rar" style="text-decoration:none;">  Click on any image thumbnail to enlarge. Click again to hide  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src459.rar" style="text-decoration:none;">  CJ Floating Calculator</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src460.rar" style="text-decoration:none;"> Character Count On Fly Using JavaScript</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src461.rar" style="text-decoration:none;"> jCharacterfall - A small, addictive jQuery game</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src462.rar" style="text-decoration:none;"> Change title on hover image</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src463.rar" style="text-decoration:none;">  Onclick change the text</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src464.rar" style="text-decoration:none;"> Change Icon color and background color based on select box using jQuery</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src465.rar" style="text-decoration:none;"> Change div based on select box</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src466.rar" style="text-decoration:none;">Change Background image afer refresh the page</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src467.rar" style="text-decoration:none;"> Change image on mouseover</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src468.rar" style="text-decoration:none;">  Change Image on Hover (JavaScript)</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src469.rar" style="text-decoration:none;"> jQuery based shopping cart</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src470.rar" style="text-decoration:none;"> Carousel slider</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src471.rar" style="text-decoration:none;">Card perfect</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src472.rar" style="text-decoration:none;"> Caps lock on / off indicator</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src473.rar" style="text-decoration:none;"> Canvas Clock</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src474.rar" style="text-decoration:none;">Canvas Game Bootstrap Master</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src475.rar" style="text-decoration:none;"> Canvas Paint Application</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src476.rar" style="text-decoration:none;"> Airtel Website Template</a></b></li>
 
 
 
