@@ -1094,7 +1094,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src477.rar" style="text-decoration:none;">CSS Parallax scrolling effect</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src478.rar" style="text-decoration:none;"CSS Typing effect</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src478.rar" style="text-decoration:none;">CSS Typing effect</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/SRC/blob/master/src479.rar" style="text-decoration:none;">Curtain Raiser </a></b></li>
 
