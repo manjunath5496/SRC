@@ -21,6 +21,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/README.md#devops" style="text-decoration:none;">DevOps Books</a></b></li>                              
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/README.md" style="text-decoration:none;">Discrete Mathematics Books </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/README.md" style="text-decoration:none;">Computer Vision Reading List</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/README.md" style="text-decoration:none;">Algorithm Books</a></b></li>                                 
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Networking-Books/blob/master/README.md" style="text-decoration:none;">Networking Books</a></b></li>                                    
                                 
