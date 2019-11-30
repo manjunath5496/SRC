@@ -32,7 +32,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/README.md" style="text-decoration:none;">Computer Vision Reading List</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/README.md" style="text-decoration:none;">Algorithm Books</a></b></li>                                 
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Networking-Books/blob/master/README.md" style="text-decoration:none;">Networking Books</a></b></li>                                    
-                                
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/README.md" style="text-decoration:none;">Data Technology Books</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Linux-Books/blob/master/README.md" style="text-decoration:none;">Linux Books</a></b></li>     
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/README.md" style="text-decoration:none;">AI Books</a></b></li>     
