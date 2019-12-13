@@ -88,7 +88,9 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/11-Technical-Papers-Every-Programmer-Should-Read/blob/master/README.md" style="text-decoration:none;">11 Technical Papers Every Programmer Should Read </a></b></li> 
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/README.md" style="text-decoration:none;">Impactful Papers and Literature on AI </a></b></li>
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/README.md" style="text-decoration:none;">Awesome AI Papers </a></b></li> 
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning Papers </a></b></li>
  </ul>
  
  </br>
