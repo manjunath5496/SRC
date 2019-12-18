@@ -92,6 +92,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/README.md" style="text-decoration:none;">Impactful Papers and Literature on AI </a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/README.md" style="text-decoration:none;">Awesome AI Papers </a></b></li> 
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning Papers </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Research-Papers-on-Programming-Languages/blob/master/README.md" style="text-decoration:none;">Research Papers on Programming Languages </a></b></li> 
  </ul>
  
  </br>
