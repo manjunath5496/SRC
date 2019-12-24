@@ -99,7 +99,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Machine Learning Papers </a></b></li>            
          
   <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Detection-Papers/blob/master/README.md" style="text-decoration:none;">3D Detection Papers </a></b></li>
-  
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/5-Must-read-Papers-on-Product-Categorization-for-Data-Scientists/blob/master/README.md" style="text-decoration:none;">5 Must-read Papers on Product Categorization for Data Scientists</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Papers on Deep Vision</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Ten-Trending-Academic-Papers-on-the-Future-of-Computer-Vision/blob/master/README.md" style="text-decoration:none;">Ten Trending Academic Papers on the Future of Computer Vision </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Papers-on-GANs/blob/master/README.md" style="text-decoration:none;">Must Read Papers on GANs </a></b></li> 
