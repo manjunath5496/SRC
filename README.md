@@ -105,6 +105,8 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Papers-on-GANs/blob/master/README.md" style="text-decoration:none;">Must Read Papers on GANs </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/README.md" style="text-decoration:none;">Paper List On Deep Generative Models</a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/README.md" style="text-decoration:none;">Key Papers in Deep RL</a></b></li>
+            <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Eight-Computer-Science-Education-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top Eight Computer Science Education Research Papers </a></b></li>   
+     
  </ul>
  
  </br>
