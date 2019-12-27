@@ -106,7 +106,8 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Paper-List-On-Deep-Generative-Models/blob/master/README.md" style="text-decoration:none;">Paper List On Deep Generative Models</a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/README.md" style="text-decoration:none;">Key Papers in Deep RL</a></b></li>
             <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Eight-Computer-Science-Education-Research-Papers/blob/master/README.md" style="text-decoration:none;">Top Eight Computer Science Education Research Papers </a></b></li>   
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Artificial-Intelligence-Books/blob/master/README.md" style="text-decoration:none;">The Best Artificial Intelligence Books </a></b></li>    
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Artificial-Intelligence-Books/blob/master/README.md" style="text-decoration:none;">The Best Artificial Intelligence Books </a></b></li>  
+                 <li><b><a target="_blank" href="https://github.com/manjunath5496/14-NLP-Research-Breakthroughs-You-Can-Apply-To-Your-Business/blob/master/README.md" style="text-decoration:none;">14 NLP Research Breakthroughs You Can Apply To Your Business</a></b></li>      
  </ul>
  
  </br>
