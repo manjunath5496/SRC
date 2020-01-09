@@ -115,6 +115,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/README.md" style="text-decoration:none;"> Best Books for Learning Lisp Programming</a></b></li> 
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/README.md" style="text-decoration:none;">Prolog Books </a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-5-Best-Programming-Languages-for-Artificial-Intelligence/blob/master/README.md" style="text-decoration:none;">Top 5 Best Programming Languages for Artificial Intelligence</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Lectures/blob/master/README.md" style="text-decoration:none;">Machine Learning Lectures </a></b></li>        
  </ul>
  
  </br>
