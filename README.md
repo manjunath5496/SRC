@@ -112,7 +112,8 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Influential-Data-Science-Research-Papers/blob/master/README.md" style="text-decoration:none;">Most Influential Data Science Research Papers</a></b></li> 
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Fraud-Detection-Research-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Fraud Detection Research Papers </a></b></li> 
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Computer-science-research-papers/blob/master/README.md" style="text-decoration:none;">Computer science research papers </a></b></li>
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/README.md" style="text-decoration:none;"> Best Books for Learning Lisp Programming</a></b></li>   
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/README.md" style="text-decoration:none;"> Best Books for Learning Lisp Programming</a></b></li> 
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/README.md" style="text-decoration:none;">Prolog Books </a></b></li>      
  </ul>
  
  </br>
