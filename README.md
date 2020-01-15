@@ -121,6 +121,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Neuro-AI-Papers/blob/master/README.md" style="text-decoration:none;">Neuro AI Papers</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/README.md" style="text-decoration:none;">Quantum ML Papers</a></b></li>    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Healthcare-ML-Papers/blob/master/README.md" style="text-decoration:none;">Healthcare ML Papers</a></b></li>
  </ul>
  
  </br>
