@@ -126,7 +126,8 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-ML-Papers/blob/master/README.md" style="text-decoration:none;"> Biology ML Papers</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/README.md" style="text-decoration:none;"> Human AI Interaction Papers</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/NLP-paper-implementation-with-PyTorch/blob/master/README.md" style="text-decoration:none;">NLP paper implementation with PyTorch </a></b></li>    
-    
+      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Economics ML Papers </a></b></li>  
  </ul>
  
  </br>
