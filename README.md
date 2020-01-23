@@ -132,6 +132,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Blockchain-Research-Papers/blob/master/README.md" style="text-decoration:none;"> Theoretical Blockchain Research Papers</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Detection-Papers/blob/master/README.md" style="text-decoration:none;"> Text Detection Papers</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Papers-On-Database-Management-Systems/blob/master/README.md" style="text-decoration:none;">Papers On Database Management Systems</a></b></li> 
+
  </ul>
  
  </br>
