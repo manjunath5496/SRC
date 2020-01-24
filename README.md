@@ -59,7 +59,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/README.md" style="text-decoration:none;">Ruby Programming Books</a></b></li>   
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/README.md" style="text-decoration:none;">Git Books</a></b></li> 
-
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Face Recognition Papers</a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Database-Books/blob/master/README.md" style="text-decoration:none;">Database Books</a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/README.md" style="text-decoration:none;">R Programming + Data Science Books</a></b></li> 
