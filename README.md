@@ -87,7 +87,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/README.md" style="text-decoration:none;">10 Cutting Edge Research-Papers In Computer Vision and Image Generation </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
-  
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Books/blob/master/README.md" style="text-decoration:none;"> Face Recognition Books </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/11-Technical-Papers-Every-Programmer-Should-Read/blob/master/README.md" style="text-decoration:none;">11 Technical Papers Every Programmer Should Read </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Impactful-Papers-and-Literature-on-AI/blob/master/README.md" style="text-decoration:none;">Impactful Papers and Literature on AI </a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/README.md" style="text-decoration:none;">Awesome AI Papers </a></b></li> 
