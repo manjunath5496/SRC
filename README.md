@@ -57,7 +57,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Books/blob/master/README.md" style="text-decoration:none;">Text Mining Books </a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/README.md" style="text-decoration:none;">Ruby Programming Books</a></b></li>   
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/README.md" style="text-decoration:none;">Finance ML Papers</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/README.md" style="text-decoration:none;">Git Books</a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Face-Recognition-Papers/blob/master/README.md" style="text-decoration:none;">Face Recognition Papers</a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Database-Books/blob/master/README.md" style="text-decoration:none;">Database Books</a></b></li> 
