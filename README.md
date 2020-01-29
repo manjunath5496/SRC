@@ -83,7 +83,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Books/blob/master/README.md" style="text-decoration:none;"> Data Science Books</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/README.md" style="text-decoration:none;"> List of important publications in computer science</a></b></li>
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Embedded-Systems-Books/blob/master/README.md" style="text-decoration:none;">Embedded Systems Books </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/README.md" style="text-decoration:none;">Great Papers in Computer Science </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/10-Cutting-Edge-Research-Papers-In-Computer-Vision-and-Image-Generation/blob/master/README.md" style="text-decoration:none;">10 Cutting Edge Research-Papers In Computer Vision and Image Generation </a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/README.md" style="text-decoration:none;">21 hottest research papers on Computer Vision and Machine Learning </a></b></li>
