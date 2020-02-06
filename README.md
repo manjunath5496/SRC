@@ -93,7 +93,7 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-AI-Papers/blob/master/README.md" style="text-decoration:none;">Awesome AI Papers </a></b></li> 
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Deep Learning Papers </a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Research-Papers-on-Programming-Languages/blob/master/README.md" style="text-decoration:none;">Research Papers on Programming Languages </a></b></li> 
-         
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/README.md" style="text-decoration:none;">Compilers Papers </a></b></li>     
  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">3D Machine Learning Papers </a></b></li>       
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/README.md" style="text-decoration:none;">Astronomy ML Papers</a></b></li>          
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Machine-Learning-Papers/blob/master/README.md" style="text-decoration:none;">Awesome Machine Learning Papers </a></b></li>            
