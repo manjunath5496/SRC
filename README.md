@@ -119,7 +119,8 @@
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Lectures/blob/master/README.md" style="text-decoration:none;">Machine Learning Lectures </a></b></li>  
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/README.md" style="text-decoration:none;">Keras-Deep-Learning-Paper-Implementations</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-5-Algorithms-for-Efficient-Deep-Learning-Inference-on-Small-Devices/blob/master/README.md" style="text-decoration:none;">The 5 Algorithms for Efficient Deep Learning Inference on Small Devices</a></b></li> 
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Neuro-AI-Papers/blob/master/README.md" style="text-decoration:none;">Neuro AI Papers</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Concurrency-Papers/blob/master/README.md" style="text-decoration:none;">Concurrency Papers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Neuro-AI-Papers/blob/master/README.md" style="text-decoration:none;">Neuro AI Papers</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/README.md" style="text-decoration:none;">Quantum ML Papers</a></b></li>    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Physics ML Papers</a></b></li>   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Healthcare-ML-Papers/blob/master/README.md" style="text-decoration:none;">Healthcare ML Papers</a></b></li>
