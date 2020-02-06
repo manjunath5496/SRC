@@ -143,7 +143,7 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-ML-Papers/blob/master/README.md" style="text-decoration:none;">Robotics ML Papers </a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/AutoML-Papers/blob/master/README.md" style="text-decoration:none;">AutoML Papers</a></b></li>    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Type-Theory-Papers/blob/master/README.md" style="text-decoration:none;">Type Theory Papers</a></b></li>   
-
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-reconstruction-Paper-list/blob/master/README.md" style="text-decoration:none;">3D Reconstruction Paper List</a></b></li>  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Functional-Programming-Papers/blob/master/README.md" style="text-decoration:none;">Functional Programming Papers</a></b></li>      
  </ul>
  
