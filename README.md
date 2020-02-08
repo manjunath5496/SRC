@@ -1763,7 +1763,7 @@
  <p><strong>Android Source Codes: </strong></p>
 <hr>
  
- <p>Android World Clock Application </p>
+<p>Android World Clock Application </p>
 <p>
     <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/Android World Clock Application.rar" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
@@ -1775,7 +1775,7 @@
 </br>
 <p>Saving data with SQLite and adding it to a ListView in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1IlUD2-1biTbQ6q8xk6GISCetkTMeH4rJ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1IlUD2-1biTbQ6q8xk6GISCetkTMeH4rJ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>3D Photo Cube Live Wallpaper in Android </p>
@@ -1900,7 +1900,7 @@
 </br>
 <p>Android Notepad Application </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1dk3I9GOwLPkwylc5hSuvZCwuqBbf_mbF/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1dk3I9GOwLPkwylc5hSuvZCwuqBbf_mbF/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Pingpong Game Application </p>
@@ -1935,7 +1935,7 @@
 </br>
 <p>Video View in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1EBNePQ1ifdma8exOriwxqefuxIOLufaO/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1EBNePQ1ifdma8exOriwxqefuxIOLufaO/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android WallPaper Application </p>
@@ -2170,7 +2170,7 @@
 </br>
 <p>Android Company Profile Application </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1SyiWl6OHMh1mjb1Q0oRuHALDgOVIaEn6/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1SyiWl6OHMh1mjb1Q0oRuHALDgOVIaEn6/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Copyright Symbol in String (XML Layout)</p>
@@ -2580,7 +2580,7 @@
 </br>
 <p>Slide Drawer in Android</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1n7fwIlC_XFvwjJAJge04d6Nnt1XuPA9r/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1n7fwIlC_XFvwjJAJge04d6Nnt1XuPA9r/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 
@@ -3036,17 +3036,17 @@
 </br>
 <p> Android Data Storage SQLite Database</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1jO4Om8kx0JC-4TgSYIosylCmKAWgf_2y/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1jO4Om8kx0JC-4TgSYIosylCmKAWgf_2y/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Data Storage SD Card File Handling</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/17UkY7sWQ6jAKTiOxoPkYenfxQV4YZQzd/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/17UkY7sWQ6jAKTiOxoPkYenfxQV4YZQzd/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Context and Application Context in Android</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1FS7wZdGNkFWc5bt6NFnckVMPn_RxLj4Y/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1FS7wZdGNkFWc5bt6NFnckVMPn_RxLj4Y/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Menus and Action Bar</p>
@@ -3056,7 +3056,7 @@
 </br>
 <p> Android Animation Example</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1F9kD1JE7NHPgw4KWgtQwXcWvJ1eOxTcs/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1F9kD1JE7NHPgw4KWgtQwXcWvJ1eOxTcs/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android GIF Image View</p>
@@ -3081,148 +3081,148 @@
 </br>
 <p>Android ListView with Section Header </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1P7AvT5V_CxfCb56Sw1hkfMoWBOJtH8pU/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1P7AvT5V_CxfCb56Sw1hkfMoWBOJtH8pU/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Load Photo & Set Wallpaper in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1wBtyzlQLXpy93aZxkC81kFEQfWccXWKu/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1wBtyzlQLXpy93aZxkC81kFEQfWccXWKu/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Set Image as Wallpaper Programatically in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1W2My6JclN8AP5fvq3DHTPoOW9c8-tb2Q/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1W2My6JclN8AP5fvq3DHTPoOW9c8-tb2Q/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Get Physical Screen Size (in inches) Programatically in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1bilt8Z5NRYw1H5kKIZ7OpMLtVJplrSQn/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1bilt8Z5NRYw1H5kKIZ7OpMLtVJplrSQn/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Pie Chart Application </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1CzFck9M1Tjsj6Tq72KOMDV8eKwKtWsqS/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1CzFck9M1Tjsj6Tq72KOMDV8eKwKtWsqS/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Rotate an Image in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1ezXGfSzDzkgOW2zuFUuD8rhOk6ABV3ml/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1ezXGfSzDzkgOW2zuFUuD8rhOk6ABV3ml/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Showing & Hiding Password in EditText in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1MwpWNDBmlMDugv1IHIubV6Vay4OQTw2j/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1MwpWNDBmlMDugv1IHIubV6Vay4OQTw2j/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Date Picker Application</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1Ukj_L2g9E9BbkKIgekrQtDIaWKVOHa9J/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1Ukj_L2g9E9BbkKIgekrQtDIaWKVOHa9J/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Stopwatch Application </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1BF1pathPjGKMX_9cEIMI57YHm7OC5DAo/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1BF1pathPjGKMX_9cEIMI57YHm7OC5DAo/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 
 <p> Simple Notepad in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1R2hMdqgq4WJ_vWaNCczd8L-H6kAgCZuR/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1R2hMdqgq4WJ_vWaNCczd8L-H6kAgCZuR/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Round Button Example </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1dWKYQNFdm716ofM-pdmWkFy_pEsKWvgH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1dWKYQNFdm716ofM-pdmWkFy_pEsKWvgH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Emojis Keyboard </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1GHyanBeUX6GedF05sD9A4eMqvaqR_kMs/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1GHyanBeUX6GedF05sD9A4eMqvaqR_kMs/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Select & Crop Image on Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1xtlcoxjmS_UktdrP5qyzGgHf3TD_YWTG/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1xtlcoxjmS_UktdrP5qyzGgHf3TD_YWTG/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android install App on External Storage </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1Dt2c3vEAd-tvmhFBjr9T5b7-O7z2P8bm/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1Dt2c3vEAd-tvmhFBjr9T5b7-O7z2P8bm/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Programmatically Pair or Unpair Android Bluetooth Device </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1W2GTyK55v1V7Mq2wYJDtE-YHs2J_jJnV/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1W2GTyK55v1V7Mq2wYJDtE-YHs2J_jJnV/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Add Blur Effect to Image View in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1IIMMfp6-ShjvzWGtFkVhc67Hd76l7nqU/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1IIMMfp6-ShjvzWGtFkVhc67Hd76l7nqU/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Image Reflection</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1MraiO6w8Rw_VSZt02gwN3_DUaTCrLFY5/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1MraiO6w8Rw_VSZt02gwN3_DUaTCrLFY5/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Using External Fonts in Android View</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1HK1LhAQAS542Ecv9Hfwkop8rZRpDTYdR/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1HK1LhAQAS542Ecv9Hfwkop8rZRpDTYdR/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Use Hindi Font in Android Application</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/116jfAjPf-mK0spel9Gcqq5HsD12R4Dpw/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/116jfAjPf-mK0spel9Gcqq5HsD12R4Dpw/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Persistence with Internal Storage</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1dj-2cIIrOlH0vCmKlBXjdHfpXyofC_cS/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1dj-2cIIrOlH0vCmKlBXjdHfpXyofC_cS/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Alarm Manager with Broadcast Receiver in Android</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1WpblQtkVq5vC3sTbcfE-slV-j6nyF9xJ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1WpblQtkVq5vC3sTbcfE-slV-j6nyF9xJ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Download Manager Example</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/10AmEj5IPMCVpF63MDxpV4prVwShk46Pn/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/10AmEj5IPMCVpF63MDxpV4prVwShk46Pn/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Delayed task execution in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1CAivpRSQMz8TPaIFg1T9qd3NmtuNTGuR/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1CAivpRSQMz8TPaIFg1T9qd3NmtuNTGuR/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Detect WiFi in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1fSFETmcKutPKIQFSLbEHIp3pNFEeSFpH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1fSFETmcKutPKIQFSLbEHIp3pNFEeSFpH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Image Slider Using ViewPager Example </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1-L7YlQ5DbxADy4jOaW2vq87Bj_t12xmH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1-L7YlQ5DbxADy4jOaW2vq87Bj_t12xmH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Send Data to Other Applications in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1lyaVUBemIxxXRFxzrOQUGcBV1DfpADEu/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1lyaVUBemIxxXRFxzrOQUGcBV1DfpADEu/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Sharing Filter Example</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1tcbDsECCixH6Sj4a8A30RVpxazHQSg37/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1tcbDsECCixH6Sj4a8A30RVpxazHQSg37/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Product Manager Application</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/19BYeDnIMtMHjiSntwfX5yjD3IY2tmqoZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/19BYeDnIMtMHjiSntwfX5yjD3IY2tmqoZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p> Android Http URL Connection Example</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1fFe0FW7N50wtk_4RTDDB5-Rp0MAYSck0/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1fFe0FW7N50wtk_4RTDDB5-Rp0MAYSck0/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Extreme Notepad (Android) </p>
@@ -3252,7 +3252,7 @@
 </br>
 <p>Download Image in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1uBJ12hEYNY6ubhNVseyOvj3pNeUWJXRd/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1uBJ12hEYNY6ubhNVseyOvj3pNeUWJXRd/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Task List Application</p>
@@ -3267,7 +3267,7 @@
 </br>
 <p>Transfer Image via Bluetooth Chat Application in Android </p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1_qegjVEVGNsT9aic0NboMz42czOPY4gb/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1_qegjVEVGNsT9aic0NboMz42czOPY4gb/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android ToDo List Application</p>
@@ -3558,12 +3558,12 @@
 </br>
 <p>Android Offline Dictionary</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1glCY0Xk3N4EzMKW629uPO7a3GLXIYyMn/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1glCY0Xk3N4EzMKW629uPO7a3GLXIYyMn/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>HangMan Game| CustomFont | Image From Web (Android Application)</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1zAyQTNy9S4PWo4C5V90cd0zkpEaG41Ic/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1zAyQTNy9S4PWo4C5V90cd0zkpEaG41Ic/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
 <p>Android Simple Graphics Example</p>
@@ -3606,6 +3606,6 @@
 
 <p>Android App Source Code Bundle</p>
 <p>
-    <a href="https://github.com/manjunath5496/Android-Source-Code/blob/master/https://drive.google.com/file/d/1VdYldc_ZmbPlibL5LE3VvZf_d5JepHeE/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
+    <a href="https://drive.google.com/file/d/1VdYldc_ZmbPlibL5LE3VvZf_d5JepHeE/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> Download </font> </a>
 </p>
 </br>
