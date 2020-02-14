@@ -148,6 +148,8 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Image-Classification-Papers/blob/master/README.md" style="text-decoration:none;">Image Classification Papers</a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/TensorFlow-Papers/blob/master/README.md" style="text-decoration:none;">TensorFlow Papers</a></b></li>   
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Super-Resolution-Papers/blob/master/README.md" style="text-decoration:none;">Super Resolution Papers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/README.md" style="text-decoration:none;"> Andrew Ng Publications</a></b></li>    
+     
  </ul>
  
  </br>
