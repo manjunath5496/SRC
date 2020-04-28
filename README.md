@@ -159,7 +159,10 @@ MATLAB Books</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/README.md" style="text-decoration:none;"> Andrew Ng Publications</a></li>    
      
  </ul>
- 
+ </br>
+ <ul>
+<li><a href="https://manjunath5496.github.io/computer-quiz/index.html">Know where your CS skills stand</a></li>
+</ul>
  </br>
  <p><strong>Web Source Codes: </strong></p>
 <hr>
