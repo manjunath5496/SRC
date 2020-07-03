@@ -1,9 +1,8 @@
 <h2 id="firstHeading" class="firstHeading" lang="en"><strong>Outline of computer science</strong></h2>
 <p><strong><a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">Computer science</a></strong>&nbsp;(also called&nbsp;<strong>computing science</strong>) is the study of the theoretical foundations of&nbsp;<a title="Information" href="https://en.wikipedia.org/wiki/Information">information</a>&nbsp;and&nbsp;<a title="Computation" href="https://en.wikipedia.org/wiki/Computation">computation</a>&nbsp;and their implementation and application in&nbsp;<a title="Computer" href="https://en.wikipedia.org/wiki/Computer">computer</a>&nbsp;systems. One well known subject classification system for computer science is the&nbsp;<a title="ACM Computing Classification System" href="https://en.wikipedia.org/wiki/ACM_Computing_Classification_System">ACM Computing Classification System</a>&nbsp;devised by the&nbsp;<a title="Association for Computing Machinery" href="https://en.wikipedia.org/wiki/Association_for_Computing_Machinery">Association for Computing Machinery</a>.</p>
 <p>&nbsp;</p>
-<div class="toclimit-2">
-<div id="toc" class="toc"><strong>Contents</strong>
-<div class="toctitle" dir="ltr" lang="en">&nbsp;</div>
+<p><strong>Contents</strong></p>
+
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#What_is_computer_science?"><span class="toctext">What is computer science?</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Subfields"><span class="toctext">Subfields</span></a></li>
