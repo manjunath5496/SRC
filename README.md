@@ -12,8 +12,7 @@
 <li class="toclevel-1 tocsection-18"><span class="toctext"><a href="#Programming_paradigms">Programming paradigms</a></span></li>
 </ul>
 <p>&nbsp;</p>
-</div>
-</div>
+
 <h2><span id="What_is_computer_science.3F"></span><span id="What_is_computer_science?" class="mw-headline">What is computer science?</span></h2>
 <p>Computer science can be described as all of the following:</p>
 <ul>
