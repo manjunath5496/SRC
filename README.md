@@ -72,6 +72,7 @@
 <li><a class="mw-redirect" title="Image processing" href="https://en.wikipedia.org/wiki/Image_processing">Image processing</a>&nbsp;&ndash; Determining information from an image through computation.</li>
 <li><a title="Information visualization" href="https://en.wikipedia.org/wiki/Information_visualization">Information visualization</a>&nbsp;&ndash; Methods for representing and displaying abstract data to facilitate human interaction for exploration and understanding.</li>
 </ul>
+
 <h3><span id="Concurrent.2C_parallel.2C_and_distributed_systems"></span><span id="Concurrent,_parallel,_and_distributed_systems" class="mw-headline">Concurrent, parallel, and distributed systems</span></h3>
 <ul>
 <li><a title="Parallel computing" href="https://en.wikipedia.org/wiki/Parallel_computing">Parallel computing</a>&nbsp;- The theory and practice of simultaneous computation; data safety in any multitasking or multithreaded environment.</li>
