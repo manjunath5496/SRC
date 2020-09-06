@@ -4253,4 +4253,55 @@ MATLAB Books</a></li>
 </table>
 </br>
 
+<h2> Timeline of the Theory of Computation and Electronic Digital Computers</h2>
+
+<table>
+<tbody>
+<tr>
+<td class="bold">1931</td>
+<td>Kurt G&ouml;del publishes his first &ldquo;incompleteness theorem,&rdquo; one of the foundational mathematical theorems proving the logical possibility of a general purpose digital computer.</td>
+</tr>
+<tr>
+<td class="bold">1936</td>
+<td>Inspired by G&ouml;del&rsquo;s incompleteness theorem, Alonzo Church (with help from his student Stephen Kleene) proves what later will become known as &ldquo;Church&rsquo;s Thesis&rdquo; (or the &ldquo;Church-Turing Thesis&rdquo;), namely, that a function is computable only if it is &ldquo;effectively calculable&rdquo; (later shown to be equivalent to calculable by a Turing machine).</td>
+</tr>
+<tr>
+<td class="bold">1936</td>
+<td>That same year, Alan Turing publishes &ldquo;On Computable Numbers, with an Application to the&nbsp;<cite>Entscheidungsproblem</cite>,&rdquo; the path-breaking paper proving the possibility of a &ldquo;universal machine&rdquo; (now known as a &ldquo;Turing machine&rdquo;), which is the abstract idea lying at the heart of every computer. In the same paper &mdash;&thinsp;as well as in another paper published in collaboration with Church that same year &mdash;&thinsp;Turing also proves that the answer to the Halting Problem (&ldquo;Is it possible to know in advance whether any given computation is finite?&rdquo;) is No.</td>
+</tr>
+<tr>
+<td class="bold">1936</td>
+<td>That same year, Emil L. Post develops independently many of the same ideas as Church and Turing.</td>
+</tr>
+<tr>
+<td class="bold">1945</td>
+<td>John Mauchly, J. Presper Eckert, and Arthur W. Burks design the ENIAC for the US Army; housed at the University of Pennsylvania, it is the world&rsquo;s first general purpose, re-programmable (&ldquo;Turing complete&rdquo;) electronic digital computer.</td>
+</tr>
+<tr>
+<td class="bold">1945</td>
+<td>That same year, John von Neumann describes what later comes to be known as the &ldquo;von Neumann architecture,&rdquo; in which the program and data are both stored in the same space in memory; von Neumann architecture is a large advance beyond previous operating system architectures.</td>
+</tr>
+<tr>
+<td class="bold">1953</td>
+<td>The RAND Corporation inaugurates the Johnniac &mdash;&thinsp;the first computer to run with an operating system based on von Neumann architecture.</td>
+</tr>
+<tr>
+<td class="bold">1957</td>
+<td>Herbert A. Simon and Allen C. Newell introduce the General Problem Solver program, which forms the foundation of most future research in artificial intelligence.</td>
+</tr>
+<tr>
+<td class="bold">1958</td>
+<td>John McCarthy publishes &ldquo;Programs with Common Sense,&rdquo; in which he outlines the hypothetical &ldquo;advice taker&rdquo; program which imitates human reasoning through a question-and-answer format; McCarthy will go on to invent the Lisp and ALGOL computer languages.</td>
+</tr>
+<tr>
+<td class="bold">1961</td>
+<td>McCarthy introduces the idea of computer time-sharing.</td>
+</tr>
+<tr>
+<td class="bold">1964</td>
+<td>IBM&rsquo;s revolutionary System/360 mainframe computer hits the market.</td>
+</tr>
+</tbody>
+</table>
+
 
