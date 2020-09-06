@@ -4185,6 +4185,72 @@ MATLAB Books</a></li>
 </ul>
 </br>
 
+<h2> Timeline of the Consumer Computer Revolution</h2>
 
+<table>
+<tbody>
+<tr>
+<td class="bold">1975</td>
+<td>Bill Gates and Paul Allen found the Microsoft Corporation.</td>
+</tr>
+<tr>
+<td class="bold">1976</td>
+<td>The next year, Steve Jobs and Steve Wozniak form Apple Computers, Inc., and soon begin production of the Apple II, the first commercially successful, personal desktop computer.</td>
+</tr>
+<tr>
+<td class="bold">1981</td>
+<td>Playing catch-up, IBM launches its Personal Computer, running Microsoft&rsquo;s MS-DOS operation system.</td>
+</tr>
+<tr>
+<td class="bold">1984</td>
+<td>Apple introduces the Macintosh, the first personal computer utilizing a graphic user interface (GUI) and sold with numerous pre-installed, software applications.</td>
+</tr>
+<tr>
+<td class="bold">1991</td>
+<td>Tim Berners-Lee, working at the CERN high-energy physics facility near Geneva, creates the first Web server, and the World Wide Web is born.</td>
+</tr>
+<tr>
+<td class="bold">1994</td>
+<td>A mere three years later, Jeff Bezos founds Amazon.com.</td>
+</tr>
+<tr>
+<td class="bold">1994</td>
+<td>That same year, the Intel Corporation introduces the Pentium microprocessor, which breaks new ground in both miniaturization and affordability, paving the way to the widespread adoption of laptops.</td>
+</tr>
+<tr>
+<td class="bold">1995</td>
+<td>Microsoft releases the Windows 95 operating system &mdash;&thinsp;the grandparent to most present-day operation systems.</td>
+</tr>
+<tr>
+<td class="bold">1998</td>
+<td>Four years after that, two Stanford grad students, Sergei Brin and Larry Page, create the Google search engine.</td>
+</tr>
+<tr>
+<td class="bold">2001</td>
+<td>Apple introduces the iPod.</td>
+</tr>
+<tr>
+<td class="bold">2004</td>
+<td>Mark Zuckerberg founds Facebook.</td>
+</tr>
+<tr>
+<td class="bold">2006</td>
+<td>Hard on FB&rsquo;s heels, Twitter is launched by Jack Dorsey and others.</td>
+</tr>
+<tr>
+<td class="bold">2007</td>
+<td>Apple&rsquo;s iPhone &mdash;&thinsp;the first smartphone &mdash;&thinsp;is released.</td>
+</tr>
+<tr>
+<td class="bold">2007</td>
+<td>That same year, Netflix makes video streaming available to its DVD rental customers, sounding the death knell of the DVD &mdash;&thinsp;itself a technology only introduced in 1997!</td>
+</tr>
+<tr>
+<td class="bold">2010</td>
+<td>Apple releases the iPad, the first tablet-sized personal computer.</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
