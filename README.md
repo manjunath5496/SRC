@@ -213,7 +213,7 @@ MATLAB Books</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/README.md" style="text-decoration:none;">Computer Vision Reading List</a></li>
                                 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithm-Books/blob/master/README.md" style="text-decoration:none;">Algorithm Books</a></li>                                 
                <li><a target="_blank" href="https://github.com/manjunath5496/Networking-Books/blob/master/README.md" style="text-decoration:none;">Networking Books</a></li>                                    
-       <li><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/README.md" style="text-decoration:none;">Data Technology Books</a></li>                             
+       <li><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/README.md" style="text-decoration:none;">Data Technology Books</a></li>              <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/README.md" style="text-decoration:none;">Python Papers </a></li>                
  <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Books/blob/master/README.md" style="text-decoration:none;">Linux Books</a></li>     
  
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Books/blob/master/README.md" style="text-decoration:none;">AI Books</a></li>     
